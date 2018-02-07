@@ -1,0 +1,16 @@
+
+body {
+    background-color: #000;
+    font-style: sans-serif;
+    text-align: center;
+}
+
+canvas {
+    border: solid 5px #fff;
+    height: 80vh;
+}
+
+h1 {
+    color: #fff;
+    font-size: 6;
+}
